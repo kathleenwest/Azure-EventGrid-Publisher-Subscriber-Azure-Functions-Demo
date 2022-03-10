@@ -1,2 +1,2 @@
 # AzureEventGridPublisherSubcriberAzureFunctionsDemo
- tba
+to be announced
